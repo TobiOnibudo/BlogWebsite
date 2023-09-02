@@ -13,7 +13,8 @@ This project utilizes the following languages, frameworks and vcs
 
 ## Images
 ### Home page
-<img src="images/homepage.png" width="50%"/>
+![Screenshot 2023-09-02 084055](https://github.com/TobiOnibudo/BlogWebsite/assets/121076035/71fb3404-888f-4b22-ad8a-91a3949df299)
+
 
 ### Compose page
-<img src="images/compose.png" width= "50%">
+![Screenshot 2023-09-02 085201](https://github.com/TobiOnibudo/BlogWebsite/assets/121076035/82e70270-de89-4d33-b9b0-c669b038d6c0)
